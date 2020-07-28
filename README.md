@@ -1,2 +1,2 @@
-# DMP-EKYC-dashboard
+FPT.AI In Store Analytics Project
 
