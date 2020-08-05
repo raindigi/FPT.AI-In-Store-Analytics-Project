@@ -29,7 +29,7 @@
     "csv": "^1.1.1",
     "errorManagement": "file:aspect/errorManagement",
     "express": "^4.16.4",
-    "express-fileupload": "^0.2.0",
+    "express-fileupload": "^1.1.9",
     "express-session": "^1.15.6",
     "fast-csv": "^2.4.0",
     "form-data": "^3.0.0",
